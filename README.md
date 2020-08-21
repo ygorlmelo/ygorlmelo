@@ -8,7 +8,7 @@ I am a Computer Science student, I work with Software Development focusing on mo
 Here I have some private and academic projects.
 
 
-📩 You can find me here: 
+📩 You can find me here, 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ygorlmelo/)](https://www.linkedin.com/in/ygorlmelo/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ygorlmelo@gmail.com)](mailto:ygorlmelo@gmail.com)

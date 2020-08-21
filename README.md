@@ -4,7 +4,7 @@
 
 ### Hi 🤓, 
 
-I am a Computer Science student, I work with Software Development focusing on mobile and I am passionate about UI / UX Design. 
+I am a Computer Science student, I work with Software Development focusing on mobile and I am passionate about UI/UX Design. 
 Here I have some private and academic projects.
 
 

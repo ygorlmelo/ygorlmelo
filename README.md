@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="230">
 
-### Hi 🤓, 
+👨🏻‍💻 Mobile Developer Lead [@kobeapps](https://github.com/kobeapps) <br/>
 
 I am a Computer Science student, I work with Software Development focusing on mobile and I am passionate about UI/UX Design. 
 Here I have some private and academic projects.

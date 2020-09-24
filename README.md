@@ -1,4 +1,4 @@
-## Hello, my name is Ygor
+## Hello, my name is Ygor 😄
 
 <img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="230">
 
